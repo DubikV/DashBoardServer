@@ -2,7 +2,6 @@
   <library name="Maven: com.microsoft.sqlserver:sqljdbc4:4.0">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/sqlserver/sqljdbc4/4.0/sqljdbc4-4.0.jar!/" />
-      <root url="file://F:/Downloads/Новая папка/sqljdbc_4.2/enu" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/sqlserver/sqljdbc4/4.0/sqljdbc4-4.0-javadoc.jar!/" />
@@ -15,6 +14,5 @@
       <root url="file://F:/Downloads/Новая папка/sqljdbc_4.2/enu/samples/resultsets" />
       <root url="file://F:/Downloads/Новая папка/sqljdbc_4.2/enu/samples/sparse" />
     </SOURCES>
-    <jarDirectory url="file://F:/Downloads/Новая папка/sqljdbc_4.2/enu" recursive="false" />
   </library>
 </component>

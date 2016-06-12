@@ -7,13 +7,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
-@RequestMapping(value = "/dashboard")
+@RequestMapping("/reminder")
 public class DashBoardController {
 
     @RequestMapping(value = "/get", method = RequestMethod.GET)
     @ResponseBody
-    public String getBashBoard(ModelMap model){
-        return "Its Dash Board!!!";
+    public String getReminder(ModelMap model) {
+        return "My reminder";
     }
 
 }
